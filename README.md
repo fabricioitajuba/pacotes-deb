@@ -1,0 +1,2 @@
+# pacotes-deb
+Pacotes .deb
