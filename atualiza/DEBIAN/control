@@ -1,0 +1,14 @@
+Package:atualiza
+Version: 0.1
+Priority:
+Architecture: all
+Essential:
+Depends:
+Pre-depends:
+Suggests:
+Installed-Size:
+Maintainer: Fabrício de Lima Ribeiro
+Conflicts:
+Replaces:
+Provides:
+Description: Atualiza a lista de repositórios

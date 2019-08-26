@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Atualiza Shell Script
+Icon=icone_atualiza
+Type=Application
+Categories=Utility;
+Exec=atualiza
+StartupNotify=false
+Terminal=true
+

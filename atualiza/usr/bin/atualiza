@@ -1,0 +1,8 @@
+#!/bin/sh
+echo "Atualizando..."
+sudo apt update
+sudo apt upgrade
+sudo apt autoremove
+sudo apt autoclean
+echo "Fim!"
+
