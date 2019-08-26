@@ -1,5 +1,7 @@
 # Exemplo de pacotes .deb
 
+- A pasta atualiza/ contém o conteúdo do pacote.
+
 - O pacote atualiza.0.1.deb foi criado através do seguinte comando:
 
 $ dpkg-deb -b atualiza/ atualiza.0.1.deb
